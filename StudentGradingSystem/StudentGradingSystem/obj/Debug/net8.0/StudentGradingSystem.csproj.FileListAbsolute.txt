@@ -1,0 +1,14 @@
+D:\Programming\Backend\C#\D\StudentGradingSystem\StudentGradingSystem\bin\Debug\net8.0\StudentGradingSystem.exe
+D:\Programming\Backend\C#\D\StudentGradingSystem\StudentGradingSystem\bin\Debug\net8.0\StudentGradingSystem.deps.json
+D:\Programming\Backend\C#\D\StudentGradingSystem\StudentGradingSystem\bin\Debug\net8.0\StudentGradingSystem.runtimeconfig.json
+D:\Programming\Backend\C#\D\StudentGradingSystem\StudentGradingSystem\bin\Debug\net8.0\StudentGradingSystem.dll
+D:\Programming\Backend\C#\D\StudentGradingSystem\StudentGradingSystem\bin\Debug\net8.0\StudentGradingSystem.pdb
+D:\Programming\Backend\C#\D\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Backend\C#\D\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.AssemblyInfoInputs.cache
+D:\Programming\Backend\C#\D\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.AssemblyInfo.cs
+D:\Programming\Backend\C#\D\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.csproj.CoreCompileInputs.cache
+D:\Programming\Backend\C#\D\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.dll
+D:\Programming\Backend\C#\D\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\refint\StudentGradingSystem.dll
+D:\Programming\Backend\C#\D\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.pdb
+D:\Programming\Backend\C#\D\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.genruntimeconfig.cache
+D:\Programming\Backend\C#\D\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\ref\StudentGradingSystem.dll
