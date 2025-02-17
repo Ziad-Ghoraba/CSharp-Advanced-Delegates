@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Backend\\C#\\D\\TemperatureSensor\\TemperatureSensor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA436AA8-84A9-40C8-9476-B1E1E1047989}|TemperatureSensor\\TemperatureSensor.csproj|d:\\programming\\backend\\c#\\d\\temperaturesensor\\temperaturesensor\\temperaturesensor\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA436AA8-84A9-40C8-9476-B1E1E1047989}|TemperatureSensor\\TemperatureSensor.csproj|solutionrelative:temperaturesensor\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA436AA8-84A9-40C8-9476-B1E1E1047989}|TemperatureSensor\\TemperatureSensor.csproj|d:\\programming\\backend\\c#\\d\\temperaturesensor\\temperaturesensor\\temperaturesensor\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA436AA8-84A9-40C8-9476-B1E1E1047989}|TemperatureSensor\\TemperatureSensor.csproj|solutionrelative:temperaturesensor\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA436AA8-84A9-40C8-9476-B1E1E1047989}|TemperatureSensor\\TemperatureSensor.csproj|d:\\programming\\backend\\c#\\d\\temperaturesensor\\temperaturesensor\\temperaturesensor\\tempargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA436AA8-84A9-40C8-9476-B1E1E1047989}|TemperatureSensor\\TemperatureSensor.csproj|solutionrelative:temperaturesensor\\tempargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA436AA8-84A9-40C8-9476-B1E1E1047989}|TemperatureSensor\\TemperatureSensor.csproj|d:\\programming\\backend\\c#\\d\\temperaturesensor\\temperaturesensor\\temperaturesensor\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA436AA8-84A9-40C8-9476-B1E1E1047989}|TemperatureSensor\\TemperatureSensor.csproj|solutionrelative:temperaturesensor\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA436AA8-84A9-40C8-9476-B1E1E1047989}|TemperatureSensor\\TemperatureSensor.csproj|d:\\programming\\backend\\c#\\d\\temperaturesensor\\temperaturesensor\\temperaturesensor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA436AA8-84A9-40C8-9476-B1E1E1047989}|TemperatureSensor\\TemperatureSensor.csproj|solutionrelative:temperaturesensor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alarm.cs",
+              "DocumentMoniker": "D:\\Programming\\Backend\\C#\\D\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\Alarm.cs",
+              "RelativeDocumentMoniker": "TemperatureSensor\\Alarm.cs",
+              "ToolTip": "D:\\Programming\\Backend\\C#\\D\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\Alarm.cs",
+              "RelativeToolTip": "TemperatureSensor\\Alarm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T05:08:51.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Display.cs",
+              "DocumentMoniker": "D:\\Programming\\Backend\\C#\\D\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\Display.cs",
+              "RelativeDocumentMoniker": "TemperatureSensor\\Display.cs",
+              "ToolTip": "D:\\Programming\\Backend\\C#\\D\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\Display.cs",
+              "RelativeToolTip": "TemperatureSensor\\Display.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T04:59:59.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TempArgs.cs",
+              "DocumentMoniker": "D:\\Programming\\Backend\\C#\\D\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\TempArgs.cs",
+              "RelativeDocumentMoniker": "TemperatureSensor\\TempArgs.cs",
+              "ToolTip": "D:\\Programming\\Backend\\C#\\D\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\TempArgs.cs",
+              "RelativeToolTip": "TemperatureSensor\\TempArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T04:54:34.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "D:\\Programming\\Backend\\C#\\D\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\Sensor.cs",
+              "RelativeDocumentMoniker": "TemperatureSensor\\Sensor.cs",
+              "ToolTip": "D:\\Programming\\Backend\\C#\\D\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\Sensor.cs",
+              "RelativeToolTip": "TemperatureSensor\\Sensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T04:44:55.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Backend\\C#\\D\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\Program.cs",
+              "RelativeDocumentMoniker": "TemperatureSensor\\Program.cs",
+              "ToolTip": "D:\\Programming\\Backend\\C#\\D\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\Program.cs",
+              "RelativeToolTip": "TemperatureSensor\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T04:35:43.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
