@@ -1,7 +1,7 @@
 # CSharp-Advanced-Delegates
 
 ## 🚀 Overview
-This repository contains three C# projects that demonstrate advanced concepts of **Delegates, Anonymous Methods, Lambda Expressions, Multicast Delegates, Func/Action/Predicate, Events, and Covariance/Contravariance**. Each project showcases how these concepts can be applied to real-world applications.
+This repository contains three C# projects that demonstrate advanced concepts of **Delegates**, **Anonymous Methods**, **Lambda Expressions**, **Multicast Delegates**, **Func/Action/Predicate**, **Events**, and **Covariance/Contravariance**. Each project showcases how these concepts can be applied to real-world applications.
 
 ---
 
@@ -28,48 +28,73 @@ The **Student Grading System** is a console-based application built in **C#** to
 
 ---
 
-## 🌡️ Temperature Sensor System
-### Description
-The **Temperature Sensor System** is a real-time console-based application that simulates a temperature monitoring system using **events and delegates**. It allows users to set temperature thresholds and trigger alarms when limits are exceeded.
+# 🌡️ Temperature Sensor System
 
-### ⭐ Features
-- **Temperature Monitoring:** Users can input temperature readings dynamically.
-- **Alarm System:** Triggers an alarm if the temperature exceeds a set threshold.
-- **Real-time Display:** Shows live temperature updates.
-- **Event-driven Architecture:** Implements **EventHandler** for temperature changes.
+## Description
 
-### 🔧 Technologies Used
+The **Temperature Sensor System** is a real-time console-based application that simulates a temperature monitoring system using two different approaches:
+
+- **Observer Pattern (Old Version)**
+- **Publish/Subscribe Pattern (Refactored Version)**
+
+Both versions allow users to set temperature thresholds and trigger alarms when limits are exceeded.
+
+## ⭐ Features
+
+- **Temperature Monitoring**: Users can input temperature readings dynamically.
+- **Alarm System**: Triggers an alarm if the temperature exceeds a set threshold.
+- **Real-time Display**: Shows live temperature updates.
+- **Event-driven Architecture** (Observer Pattern) and **Decoupled Messaging** (Publish/Subscribe Pattern).
+
+## 🔧 Technologies Used
+
 - **C#**
 - **.NET Console Application**
-- **Events & Delegates (EventHandler)**
+- **Events & Delegates** (Old Version - Observer Pattern)
+- **Publish/Subscribe Pattern** (New Version - Refactored)
 
 ### 🗂 Project Structure
-- `Program.cs` – Main entry point of the application.
-- `Sensor.cs` – Represents the temperature sensor and manages event triggering.
-- `TempArgs.cs` – Custom event arguments for temperature changes.
-- `Display.cs` – Handles displaying the temperature.
-- `Alarm.cs` – Monitors temperature and triggers an alarm when needed.
+
+#### Observer Pattern Version
+- `Program.cs`  
+- `Sensor.cs`  
+- `TempArgs.cs`  
+- `Display.cs`  
+- `Alarm.cs`  
+
+#### Publish/Subscribe Version (Refactored)
+- `Program.cs`  
+- `Sensor.cs`  
+- `TempArgs.cs`  
+- `Display.cs`  
+- `Alarm.cs`  
+- `Broker.cs`  
 
 ---
 
 ## 📖 Topics Covered
-This repository demonstrates key programming concepts, including:
-
-- **Single Responsibility Principle (SRP):** Ensuring each class has a single responsibility to improve maintainability.
-- **Observer Pattern:** Implementing event-driven architecture using delegates and event handlers.
 
 This repository demonstrates key programming concepts, including:
+
+- **Observer Pattern (Before Update) & Publish/Subscribe Pattern (After Update):** Implementing a decoupled event-driven architecture.
 
 - **Delegates in C#:**
-  - **Func<T>:** Used to calculate student averages dynamically.
-  - **Predicate<T>:** Determines whether a student passes or fails.
-  - **Action<T>:** Displays formatted student results.
-- **Events & Event Handling:**
-  - **EventHandler<T>:** Used to manage temperature changes.
-  - **Custom Event Arguments:** Passing temperature values through events.
-- **Data Processing:** Efficient handling of student grades and temperature readings.
-- **Console Application Development:** Creating user-friendly CLI applications.
+  - **Func:** Used to calculate student averages dynamically.
+  - **Predicate:** Determines whether a student passes or fails.
+  - **Action:** Displays formatted student results.
 
+- **Events & Event Handling (Before Update):**
+  - **EventHandler:** Used to manage temperature changes.
+  - **Custom Event Arguments:** Passing temperature values through events.
+
+- **Publish/Subscribe Pattern (After Update):**
+  - **Broker-based message distribution:** Decoupling publishers and subscribers.
+  - **Flexible and extensible subscription model.**
+
+- **Data Processing:** Efficient handling of student grades and temperature readings.
+
+- **Console Application Development:** Creating user-friendly CLI applications.
+- 
 ---
 
 ## 🚀 Learning Journey
