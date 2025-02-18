@@ -1,0 +1,14 @@
+D:\Programming\Backend\C#\D\TemperatureSensor\TemperatureSensor\TemperatureSensor\bin\Debug\net8.0\TemperatureSensor.exe
+D:\Programming\Backend\C#\D\TemperatureSensor\TemperatureSensor\TemperatureSensor\bin\Debug\net8.0\TemperatureSensor.deps.json
+D:\Programming\Backend\C#\D\TemperatureSensor\TemperatureSensor\TemperatureSensor\bin\Debug\net8.0\TemperatureSensor.runtimeconfig.json
+D:\Programming\Backend\C#\D\TemperatureSensor\TemperatureSensor\TemperatureSensor\bin\Debug\net8.0\TemperatureSensor.dll
+D:\Programming\Backend\C#\D\TemperatureSensor\TemperatureSensor\TemperatureSensor\bin\Debug\net8.0\TemperatureSensor.pdb
+D:\Programming\Backend\C#\D\TemperatureSensor\TemperatureSensor\TemperatureSensor\obj\Debug\net8.0\TemperatureSensor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Backend\C#\D\TemperatureSensor\TemperatureSensor\TemperatureSensor\obj\Debug\net8.0\TemperatureSensor.AssemblyInfoInputs.cache
+D:\Programming\Backend\C#\D\TemperatureSensor\TemperatureSensor\TemperatureSensor\obj\Debug\net8.0\TemperatureSensor.AssemblyInfo.cs
+D:\Programming\Backend\C#\D\TemperatureSensor\TemperatureSensor\TemperatureSensor\obj\Debug\net8.0\TemperatureSensor.csproj.CoreCompileInputs.cache
+D:\Programming\Backend\C#\D\TemperatureSensor\TemperatureSensor\TemperatureSensor\obj\Debug\net8.0\TemperatureSensor.dll
+D:\Programming\Backend\C#\D\TemperatureSensor\TemperatureSensor\TemperatureSensor\obj\Debug\net8.0\refint\TemperatureSensor.dll
+D:\Programming\Backend\C#\D\TemperatureSensor\TemperatureSensor\TemperatureSensor\obj\Debug\net8.0\TemperatureSensor.pdb
+D:\Programming\Backend\C#\D\TemperatureSensor\TemperatureSensor\TemperatureSensor\obj\Debug\net8.0\TemperatureSensor.genruntimeconfig.cache
+D:\Programming\Backend\C#\D\TemperatureSensor\TemperatureSensor\TemperatureSensor\obj\Debug\net8.0\ref\TemperatureSensor.dll
